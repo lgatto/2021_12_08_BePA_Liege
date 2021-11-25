@@ -1,5 +1,6 @@
-Programme: https://belgianproteomics.be/events/bepac2021/#program
-Time: Wed 8 Dec, 17:00 – 17:45
+- Programme: https://belgianproteomics.be/events/bepac2021/#program
+
+- Time: Wed 8 Dec, 17:00 – 17:45
 
 ### Title
 
