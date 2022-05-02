@@ -1,5 +1,7 @@
-- Programme: https://belgianproteomics.be/events/bepac2021/#program
+**Conference got reschedule to May 2022 - see [here](https://github.com/lgatto/2022_05_04_BePA_Liege)**
 
+
+- Programme: https://belgianproteomics.be/events/bepac2021/#program
 - Time: Wed 8 Dec, 17:00 – 17:45
 
 ### Title
